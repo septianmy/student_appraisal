@@ -1,0 +1,11 @@
+.studentlist-wrapper {
+    padding:5px;
+    border:1px solid #ccc;
+    margin-bottom:10px;
+    border-radius: 5px;
+}
+
+.img-student {
+    height: 20px;
+    margin-right:10px;
+}
